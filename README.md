@@ -77,6 +77,6 @@ This project helped me understand how to structure a Java CLI application, manag
 
 ## 👨‍💻 Author
 
-**Vaibhav Sharma**
+**Vaibhav Sisodia**
 
 GitHub: https://github.com/MLwithvaibhav
