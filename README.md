@@ -79,4 +79,4 @@ This project helped me understand how to structure a Java CLI application, manag
 
 **Vaibhav Sisodia**
 
-GitHub: https://github.com/MLwithvaibhav
+GitHub: https://github.com/systemswithvaibhav
